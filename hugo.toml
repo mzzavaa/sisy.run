@@ -1,0 +1,10 @@
+baseURL = "https://sisy.run/"
+languageCode = "en-us"
+title = "SISY Run - Redirecting to sisy.codes"
+
+[params]
+  description = "Redirecting to sisy.codes - the SISY hub for women in tech."
+  redirect = "https://sisy.codes"
+
+[markup.goldmark.renderer]
+  unsafe = true
