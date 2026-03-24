@@ -1,4 +1,4 @@
 ---
-title: "SISY Run - Redirecting to sisy.codes"
-description: "sisy.run now lives at sisy.codes - the SISY hub for women in tech."
+title: "sisy.run"
+description: "sisy.run powers the automation behind SISY. Visit sisy.codes for developer tools."
 ---

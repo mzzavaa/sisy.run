@@ -1,9 +1,9 @@
 baseURL = "https://sisy.run/"
 languageCode = "en-us"
-title = "SISY Run - Redirecting to sisy.codes"
+title = "sisy.run"
 
 [params]
-  description = "Redirecting to sisy.codes - the SISY hub for women in tech."
+  description = "sisy.run powers the automation behind SISY. Visit sisy.codes for developer tools."
   redirect = "https://sisy.codes"
 
 [markup.goldmark.renderer]
